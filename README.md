@@ -37,7 +37,7 @@ Methods used:
 
 Notebook:
 
-`01_wage_education_analysis.ipynb`
+[01_wage_education_analysis.ipynb](./01_wage_education_analysis.ipynb)
 
 ---
 
