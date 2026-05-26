@@ -57,7 +57,7 @@ Methods used:
 
 Notebook:
 
-`02_labor_market_risk_prediction.ipynb`
+[02_labor_market_risk_prediction.ipynb](./02_labor_market_risk_prediction.ipynb)
 
 ---
 
@@ -77,7 +77,7 @@ Methods used:
 
 Notebook:
 
-`03_regional_structural_inequality.ipynb`
+[03_regional_structural_inequality.ipynb](./03_regional_structural_inequality.ipynb)
 
 ---
 
